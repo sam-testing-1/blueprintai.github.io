@@ -32,7 +32,7 @@ A professional, AI-powered Unreal Engine 5 Blueprint Viewer and Editor. This too
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blueprint-ai-studio.git
+   git clone https://github.com/sam-testing-1/blueprint-ai-studio.git
    cd blueprint-ai-studio
    ```
 
